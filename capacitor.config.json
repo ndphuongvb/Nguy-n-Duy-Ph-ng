@@ -1,0 +1,6 @@
+{
+  "appId": "com.bh.posp3.app",
+  "appName": "QL Ban Hang P3",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "QL Bán hàng P3",
+  "description": "Phần mềm quản lý bán hàng chuyên nghiệp hỗ trợ Quản lý danh mục, Nhập hàng, Bán hàng, Thống kê, Bảo hành và Công nợ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
